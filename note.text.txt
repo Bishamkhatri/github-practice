@@ -1,4 +1,4 @@
-This is my note file for github ,
+Line from branch A
 
 I created a new branch from main,
 
