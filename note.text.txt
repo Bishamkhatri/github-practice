@@ -1,4 +1,5 @@
 Line from branch A
+Line from branch B ,
 
 I created a new branch from main,
 
